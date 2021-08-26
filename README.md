@@ -1,4 +1,12 @@
-Let's see who's the better DICE ROLLER!💥
+#Let's see who's the better DICE ROLLER!💥
+
+Rules of the game:
+-You can roll until you get 1
+-If you roll num 1 then opponent's turn follows
+-You can hold your rolled value it will add to your total score
+-First player who reaches 100 points, win!
+
+Good luck to you!
 
 ![image](https://user-images.githubusercontent.com/60651308/131016098-15a69dda-694c-4ea1-94e6-8396fdda652f.png)
 
